@@ -1,0 +1,5 @@
+# everything in node_modules/
+node_modules/
+
+# some files
+yarn.lock
